@@ -98,51 +98,34 @@
 
 #### Linux
 
-1. Tải file `.AppImage`, `.deb`, hoặc `.rpm` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
+1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
 
-2. **AppImage:**
-
-   ```bash
-
-   chmod +x VMUAutomaticCourseRegistration-*.AppImage
-
-   ./VMUAutomaticCourseRegistration-*.AppImage
-
-   ```
-
-3. **Debian/Ubuntu (.deb):**
+2. **Desktop:**
 
    ```bash
 
-   sudo dpkg -i VMUAutomaticCourseRegistration-*.deb
+   chmod +x ./DangKyVMU.Desktop
 
-   sudo apt-get install -f
-
-   ```
-
-4. **Fedora/RHEL (.rpm):**
-
-   ```bash
-
-   sudo rpm -i VMUAutomaticCourseRegistration-*.rpm
+   ./DangKyVMU.Desktop
 
    ```
-
  
 
-#### macOS
+#### macOS (Intel)
 
-1. Tải file `.dmg` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
+1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
 
-2. Mở file `.dmg`
+2. **Desktop:**
 
-3. Kéo ứng dụng vào thư mục Applications
+   ```bash
 
-4. Nếu gặp cảnh báo bảo mật:
+   chmod +x ./DangKyVMU.Desktop
 
-   - Vào **System Preferences** → **Security & Privacy**
+   xattr -d com.apple.quarantine DangKyVMU.Desktop
 
-   - Nhấn **"Open Anyway"**
+   ./DangKyVMU.Desktop
+
+   ```
 
  
 
