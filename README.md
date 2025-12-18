@@ -48,7 +48,7 @@
 
  
 
-1. Tải file APK từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
+1. Tải file APK từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
 2. Bật **"Cài đặt từ nguồn không xác định"** trên thiết bị:
 
@@ -88,7 +88,7 @@
 
 #### Windows
 
-1. Tải file `.exe` hoặc `.msi` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
+1. Tải file `.exe` hoặc `.msi` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
 2. Chạy file cài đặt
 
@@ -98,7 +98,7 @@
 
 #### Linux
 
-1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
+1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
 2. **Desktop:**
 
@@ -113,7 +113,7 @@
 
 #### macOS (Intel)
 
-1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/releases)
+1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
 2. **Desktop:**
 
@@ -181,7 +181,7 @@
 
  
 
-Nếu gặp lỗi hoặc có góp ý, vui lòng tạo issue tại [Issues](https://github.com/duykhongphai/VMUAutomaticCourseRegistration/issues)
+Nếu gặp lỗi hoặc có góp ý, vui lòng tạo issue tại [Issues](https://github.com/duykhongphai/RegisterVMUCourses/issues)
 
  
 
@@ -211,7 +211,7 @@ Dự án được phát hành dưới giấy phép [MIT License](LICENSE).
 
 - **GitHub:** [@duykhongphai](https://github.com/duykhongphai)
 
-- **Repository:** [VMUAutomaticCourseRegistration](https://github.com/duykhongphai/VMUAutomaticCourseRegistration)
+- **Repository:** [VMUAutomaticCourseRegistration](https://github.com/duykhongphai/RegisterVMUCourses)
 
  
 
