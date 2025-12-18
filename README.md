@@ -244,4 +244,4 @@ Dự án này được phát triển để hỗ trợ sinh viên VMU. Mọi đó
 
  
 
-**Lưu ý:** Ứng dụng này không chính thức và không liên kết với Đại học Việt Mỹ.
+**Lưu ý:** Ứng dụng này không chính thức và không liên kết với Đại học Hàng Hải.
