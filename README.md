@@ -1,4 +1,4 @@
-# 📱 VMU Automatic Course Registration
+# VMU Automatic Course Registration
 
  
 
