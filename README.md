@@ -8,7 +8,7 @@
 
  
 
-Ứng dụng hỗ trợ đăng ký môn học tự động cho sinh viên Đại học Việt Mỹ (VMU).
+Ứng dụng hỗ trợ đăng ký môn học tự động cho sinh viên Đại học Hàng Hải (VMU).
 
  
 
