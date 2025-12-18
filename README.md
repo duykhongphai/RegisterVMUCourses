@@ -113,19 +113,17 @@
 
 #### macOS (Intel)
 
-1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
+1. Tải file `.dmg` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
-2. **Desktop:**
+2. Mở file `.dmg`
 
-   ```bash
+3. Kéo ứng dụng vào thư mục Applications
 
-   chmod +x ./DangKyVMU.Desktop
+4. Nếu gặp cảnh báo bảo mật:
 
-   xattr -d com.apple.quarantine DangKyVMU.Desktop
+   - Vào **System Preferences** → **Security & Privacy**
 
-   ./DangKyVMU.Desktop
-
-   ```
+   - Nhấn **"Open Anyway"**
 
  
 
