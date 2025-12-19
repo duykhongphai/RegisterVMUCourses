@@ -98,15 +98,15 @@
 
 #### Linux
 
-1. Tải file `.Desktop` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
+1. Tải file `DangKyVMU_App` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
 2. **Desktop:**
 
    ```bash
 
-   chmod +x ./DangKyVMU.Desktop
+   chmod +x ./DangKyVMU_App
 
-   ./DangKyVMU.Desktop
+   ./DangKyVMU_App
 
    ```
  
