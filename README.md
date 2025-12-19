@@ -85,9 +85,11 @@
 
 #### Windows
 
-1. Tải file `.exe` hoặc `.msi` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
+1. Tải file `.rar` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
-2. Chạy file cài đặt
+2. Giải nén file rar
+
+2. Chạy file .exe
 
 3. Làm theo hướng dẫn trên màn hình
 
