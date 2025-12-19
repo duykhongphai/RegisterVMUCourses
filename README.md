@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS-blue.svg)](https://github.com/duykhongphai/VMUAutomaticCourseRegistration)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux%20%7C%20iOS-blue.svg)](https://github.com/duykhongphai/VMUAutomaticCourseRegistration)
 
  
 
@@ -111,20 +111,11 @@
    ```
  
 
-#### macOS (Intel)
+#### iOs
 
-1. Tải file `.dmg` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
+1. Tải file `.ipa` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
-2. Mở file `.dmg`
-
-3. Kéo ứng dụng vào thư mục Applications
-
-4. Nếu gặp cảnh báo bảo mật:
-
-   - Vào **System Preferences** → **Security & Privacy**
-
-   - Nhấn **"Open Anyway"**
-
+2. Dùng SideLoader để cài đặt [SideLoader](https://sideloadly.io/)
  
 
 ## 🚀 Hướng dẫn sử dụng
