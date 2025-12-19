@@ -77,9 +77,6 @@
 | **Windows** | Windows 10 (1809+) hoặc mới hơn |
 
 | **Linux** | Ubuntu 20.04+, Fedora 36+, hoặc các distro tương đương |
-
-| **macOS** | macOS 11 (Big Sur) trở lên |
-
  
 
 **Hướng dẫn cài đặt:**
