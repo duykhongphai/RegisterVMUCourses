@@ -62,7 +62,7 @@
 
  
 
-### Desktop (Windows/Linux/macOS)
+### Desktop (Windows/Linux)
 
  
 
@@ -111,7 +111,7 @@
    ```
  
 
-#### iOs
+### iOS
 
 1. Tải file `.ipa` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
