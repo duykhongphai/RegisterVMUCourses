@@ -95,7 +95,7 @@
 
  
 
-#### Linux
+#### Linux (Ubuntu 24.04)
 
 1. Tải file `DangKyVMU_App` từ [Releases](https://github.com/duykhongphai/RegisterVMUCourses/releases/tag/release)
 
